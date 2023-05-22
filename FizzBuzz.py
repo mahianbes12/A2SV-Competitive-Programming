@@ -1,3 +1,4 @@
+#python3
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
         m1 = m2 = m3 = -inf
